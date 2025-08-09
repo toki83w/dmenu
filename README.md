@@ -1,3 +1,14 @@
+# dmenu toki83w
+
+Based on main dmenu repository
+
+Patches
+* center
+
+
+
+
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
