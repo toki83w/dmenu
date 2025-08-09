@@ -3,10 +3,15 @@
 Based on main dmenu repository
 
 Patches
-* center
+  * center
+  * border
+  * no sort
+  * fuzzymatch
+  * fuzzyhighlight
+  * numbers
 
-
-
+Config
+  * Catppuccin Mocha theme
 
 
 dmenu - dynamic menu
